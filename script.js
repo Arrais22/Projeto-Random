@@ -6,3 +6,14 @@ function generateNumber(){
 
     alert(result)
 }
+
+const apereceresult = document.querySelector(".main-button")
+
+function resultado(){
+    alert("result")
+}
+
+function id(){
+    const p = document.querySelector(".Abufela")
+    p.innerHTML = apareceresult.value
+}
