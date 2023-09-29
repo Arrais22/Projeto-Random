@@ -1,8 +1,7 @@
 # Projeto-Random
 
-## O objetivo do projeto é site de sortear um número.
+## O objetivo do projeto é um site para sortear um número.
 <strong>Para está aplicação foi utilizado o HTML, CSS e JavaScript.</strong>
-
 <strong>Havendo apenas umas poucas alterações do projeto usado em aula.</strong>
 
 ### Segue o video explicativo:
