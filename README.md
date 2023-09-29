@@ -2,7 +2,8 @@
 
 ## O objetivo do projeto é site de sortear um número.
 <strong>Para está aplicação foi utilizado o HTML, CSS e JavaScript.</strong>
-Havendo apenas umas poucas alterações do projeto usado em aula.
+
+<strong>Havendo apenas umas poucas alterações do projeto usado em aula.</strong>
 
 ### Segue o video explicativo:
 
